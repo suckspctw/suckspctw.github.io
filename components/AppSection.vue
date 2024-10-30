@@ -76,21 +76,15 @@ const getLabelClass = (label: string) => {
 </script>
 
 <template>
-  <div class="app-section">
+  <div>
     <div class="flex items-start">
       <div class="text-xs bg-stone-700 px-2 py-1 inline-block mr-3 whitespace-nowrap rounded mt-0.5">{{ article.createdAt }}</div>
-      <div class="app-section__title">
-        {{ article.title }}
+      <div>
+        <a :href="article.url" target="_blank">{{ article.title }}</a>
         <span v-for="label in labels"
               class="leading-3.5 px-1 py-0.5 rounded text-xs font-bold inline-block ml-1"
               :class="getLabelClass(label)">{{ getLabelText(label) }}</span>
-        <a class="ml-2 whitespace-nowrap" :href="article.url" target="_blank">連結</a>
       </div>
     </div>
   </div>
 </template>
-
-<style scoped>
-.app-section {
-}
-</style>
