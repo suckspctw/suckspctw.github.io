@@ -28,10 +28,23 @@
     "desc": ""
   },
   {
+    "createdAt": "2024-03-14",
+    "title": "【其他】「幫備份」原價屋贈品始末",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=641633&bpage=2&ltype=",
+    "desc": ""
+  },
+  {
     "createdAt": "2024-02-15",
     "title": "【心得】曾經我以為某屋在巴哈的評價是一種段子",
     "url": "https://forum.gamer.com.tw/C.php?bsn=60030&snA=639908",
     "label": "INSTALLATION_DEFECT",
+    "desc": ""
+  },
+  {
+    "createdAt": "2023-12-15",
+    "title": "【討論】原價屋網購退貨結果硬要出貨",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=636605&bpage=3&ltype=",
+    "label": "REFUND_REJECTED",
     "desc": ""
   },
   {
@@ -77,6 +90,13 @@
     "desc": ""
   },
   {
+    "createdAt": "2023-03-13",
+    "title": "原價屋買螢幕 感覺還蠻差的.... 不會再去了",
+    "url": "https://forum.gamer.com.tw/C.php?bsn=60030&snA=620925",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
     "createdAt": "2023-01-10",
     "title": "【討論】原價屋裝機品質令人傻眼",
     "url": "https://forum.gamer.com.tw/C.php?bsn=60030&snA=616812",
@@ -98,9 +118,37 @@
     "desc": ""
   },
   {
-    "createdAt": "2019-02-25",
-    "title": "原價屋購買電腦之不愉快經驗(單純抱怨不喜慎入)",
-    "url": "https://www.mobile01.com/topicdetail.php?f=396&t=5723897",
+    "createdAt": "2022-07-29",
+    "title": "【討論】[爆掛] 朋友去年在原價屋組的電腦，今天送修發現塔扇膜沒撕，CPU沒上散熱膏",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=556485&bpage=8&ltype=",
+    "label": "INSTALLATION_DEFECT",
+    "desc": ""
+  },
+  {
+    "createdAt": "2022-06-08",
+    "title": "[心得] 反推原價屋",
+    "url": "https://pttyes.com/PC_Shopping/M.1654702495.A.848",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
+    "createdAt": "2021-08-10",
+    "title": "【問題】原價屋送修回來後 CPU溫度在90左右",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=583348&bpage=9&ltype=",
+    "label": "INSTALLATION_DEFECT",
+    "desc": ""
+  },
+  {
+    "createdAt": "2021-07-15",
+    "title": "[心得] 原價屋組裝態度隨便",
+    "url": "https://ptthito.com/pc_shopping/m-1626320065-a-7cf/",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
+    "createdAt": "2021-05-27",
+    "title": "【問題】遭原價屋維修部放生，應該直接送原廠還是堅持回去？",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=576697&bpage=5&ltype=",
     "label": "POOR_CUSTOMER_SERVICE",
     "desc": ""
   },
@@ -109,6 +157,48 @@
     "title": "【心得】原價屋讓我不再想去了",
     "url": "https://forum.gamer.com.tw/C.php?bsn=60030&snA=574292",
     "label": ["EXCHANGES_REJECTED", "POOR_CUSTOMER_SERVICE"],
+    "desc": ""
+  },
+  {
+    "createdAt": "2021-01-25",
+    "title": "【討論】原價屋即日起控管臉書言論",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=569009&bpage=10&ltype=",
+    "label": "RESTRICT_FREEDOM_OF_SPEECH",
+    "desc": ""
+  },
+  {
+    "createdAt": "2020-08-26",
+    "title": "【閒聊】原價屋的員工都這麼嗆喔?",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=558481&bpage=12&ltype=",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
+    "createdAt": "2020-06-04",
+    "title": "【閒聊】久違的進原價屋買新機，真是各種驚喜......",
+    "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=558481&bpage=12&ltype=",
+    "label": ["INSTALLATION_DEFECT", "POOR_CUSTOMER_SERVICE"],
+    "desc": ""
+  },
+  {
+    "createdAt": "2019-10-20",
+    "title": "Re: [閒聊] 原價屋是不是討厭客人去現場買？",
+    "url": "https://moptt.tw/p/PC_Shopping.M.1571545792.A.0F9",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
+    "createdAt": "2019-02-25",
+    "title": "原價屋購買電腦之不愉快經驗(單純抱怨不喜慎入)",
+    "url": "https://www.mobile01.com/topicdetail.php?f=396&t=5723897",
+    "label": "POOR_CUSTOMER_SERVICE",
+    "desc": ""
+  },
+  {
+    "createdAt": "2015-10-23",
+    "title": "Re: Re: [閒聊] SAMA 機殼燒毀，處理索賠被敲詐",
+    "url": "https://disp.cc/ptt/PC_Shopping/1MATulQf",
+    "label": "PRODUCT_DEFECT",
     "desc": ""
   },
   {

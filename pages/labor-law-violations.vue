@@ -7,7 +7,7 @@ const title = '原價屋違反勞基法記錄'
 useHead({
   title,
   meta: [
-    { name: 'keywords', content: '原價屋,二手屋,瑕疵屋,高價屋' },
+    { name: 'keywords', content: '原價屋,二手屋,瑕疵屋,高價屋,罰站屋' },
     { name: 'description', content: '原價屋對待勞工的方式，如同對待消費者，如出一轍' }
   ]
 })

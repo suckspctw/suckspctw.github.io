@@ -8,7 +8,9 @@ enum LabelType {
   USED_ITEM_SELLING = 'USED_ITEM_SELLING',
   VIOLENT_INCIDENT = 'VIOLENT_INCIDENT',
   POOR_CUSTOMER_SERVICE = 'POOR_CUSTOMER_SERVICE',
-  EXCHANGES_REJECTED = 'EXCHANGES_REJECTED'
+  EXCHANGES_REJECTED = 'EXCHANGES_REJECTED',
+  RESTRICT_FREEDOM_OF_SPEECH = 'RESTRICT_FREEDOM_OF_SPEECH',
+  PRODUCT_DEFECT = 'PRODUCT_DEFECT'
 }
 
 type Article = {
@@ -48,6 +50,10 @@ const getLabelText = (label: string) => {
       return '服務態度不佳'
     case LabelType.EXCHANGES_REJECTED:
       return '拒絕換貨'
+    case LabelType.RESTRICT_FREEDOM_OF_SPEECH:
+      return '言論審查'
+    case LabelType.PRODUCT_DEFECT:
+      return '產品瑕疵'
     default:
       return ''
   }
@@ -63,14 +69,10 @@ const getLabelClass = (label: string) => {
       return 'bg-red-800'
     case LabelType.USED_ITEM_SELLING:
       return 'bg-violet-900'
-    case LabelType.VIOLENT_INCIDENT:
-      return 'bg-slate-700'
-    case LabelType.POOR_CUSTOMER_SERVICE:
-      return 'bg-slate-700'
     case LabelType.EXCHANGES_REJECTED:
       return 'bg-teal-800'
     default:
-      return ''
+      return 'bg-slate-700'
   }
 }
 </script>
