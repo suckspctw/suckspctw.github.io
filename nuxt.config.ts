@@ -8,5 +8,9 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {}
     }
+  },
+  modules: ['nuxt-gtag'],
+  gtag: {
+    id: 'G-R8ER18JW7C'
   }
 })
