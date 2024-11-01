@@ -8,10 +8,5 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {}
     }
-  },
-  modules: ['nuxt-gtag'],
-  gtag: {
-    enabled: process.env.NODE_ENV === 'production',
-    id: 'G-R8ER18JW7C'
   }
 })
