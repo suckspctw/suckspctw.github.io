@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "nuxt": "^3.13.2",
+    "nuxt-gtag": "^3.0.1",
     "vue": "latest",
-    "vue-gtag-next": "^1.14.0",
     "vue-router": "latest"
   },
   "devDependencies": {
