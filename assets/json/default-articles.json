@@ -14,6 +14,13 @@
     "desc": ""
   },
   {
+    "createdAt": "2024-08-26",
+    "title": "原價屋機敏資料外洩及不安全的設計",
+    "url": "https://zeroday.hitcon.org/vulnerability/ZD-2023-00366",
+    "label": "VULNERABILITY",
+    "desc": ""
+  },
+  {
     "createdAt": "2024-08-23",
     "title": "高雄不誠實原價屋的不專業電腦送修流程 ( i9 14900k )",
     "url": "https://forum.gamer.com.tw/C.php?bsn=60030&snA=650893",
@@ -178,6 +185,13 @@
     "title": "【閒聊】久違的進原價屋買新機，真是各種驚喜......",
     "url": "https://m.gamer.com.tw/forum/C.php?bsn=60030&snA=558481&bpage=12&ltype=",
     "label": ["INSTALLATION_DEFECT", "POOR_CUSTOMER_SERVICE"],
+    "desc": ""
+  },
+  {
+    "createdAt": "2020-03-17",
+    "title": "原價屋 多個漏洞",
+    "url": "https://zeroday.hitcon.org/vulnerability/ZD-2020-00002",
+    "label": "VULNERABILITY",
     "desc": ""
   },
   {

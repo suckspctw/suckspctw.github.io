@@ -10,7 +10,8 @@ enum LabelType {
   POOR_CUSTOMER_SERVICE = 'POOR_CUSTOMER_SERVICE',
   EXCHANGES_REJECTED = 'EXCHANGES_REJECTED',
   RESTRICT_FREEDOM_OF_SPEECH = 'RESTRICT_FREEDOM_OF_SPEECH',
-  PRODUCT_DEFECT = 'PRODUCT_DEFECT'
+  PRODUCT_DEFECT = 'PRODUCT_DEFECT',
+  VULNERABILITY = 'VULNERABILITY'
 }
 
 type Article = {
@@ -54,6 +55,8 @@ const getLabelText = (label: string) => {
       return '言論審查'
     case LabelType.PRODUCT_DEFECT:
       return '產品瑕疵'
+    case LabelType.VULNERABILITY:
+      return '資安漏洞'
     default:
       return ''
   }
@@ -71,6 +74,8 @@ const getLabelClass = (label: string) => {
       return 'bg-violet-900'
     case LabelType.EXCHANGES_REJECTED:
       return 'bg-teal-800'
+    case LabelType.VULNERABILITY:
+      return 'bg-red-800'
     default:
       return 'bg-slate-700'
   }
