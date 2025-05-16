@@ -12,7 +12,8 @@ enum LabelType {
   RESTRICT_FREEDOM_OF_SPEECH = 'RESTRICT_FREEDOM_OF_SPEECH',
   PRODUCT_DEFECT = 'PRODUCT_DEFECT',
   VULNERABILITY = 'VULNERABILITY',
-  REPAIR_FAILURE = 'REPAIR_FAILURE'
+  REPAIR_FAILURE = 'REPAIR_FAILURE',
+  CONSUMER_DISPUTE = 'CONSUMER_DISPUTE'
 }
 
 type Article = {
@@ -60,6 +61,8 @@ const getLabelText = (label: string) => {
       return '資安漏洞'
     case LabelType.REPAIR_FAILURE:
       return '維修出包'
+    case LabelType.CONSUMER_DISPUTE:
+      return '消費爭議'
     default:
       return ''
   }
